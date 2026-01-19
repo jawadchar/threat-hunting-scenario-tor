@@ -78,11 +78,6 @@ DeviceFileEvents
 - **Author Name**: Jawad Charafeddine
 - **Date**: August 31, 2025
 
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
-
 ---
 
 ## Additional Notes:
